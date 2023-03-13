@@ -17,7 +17,7 @@ const Qualifications = () => {
                     <span className="qualification__subtitle">Engausa</span>
                     <div className="qualification__calender">
                       <i className="uil uil-calendar-alt"></i>
-                      2021 - 2022
+                      2020 - 2021
                     </div>
                   </div>
 
@@ -41,7 +41,7 @@ const Qualifications = () => {
 
                     <div className="qualification__calender">
                       <i className="uil uil-calendar-alt"></i>
-                      2021 - 2023
+                      2022 - 2023
                     </div>
                   </div>
 

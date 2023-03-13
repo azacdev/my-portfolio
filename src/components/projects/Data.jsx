@@ -22,14 +22,14 @@ const data = [
       id: 3,
       image: IMG3,
       title: "Meme Generator",
-      github: "https://github.com/",
-      demo: "https://dribble.com/"
+      github: "https://github.com/azacdev/meme-generator.git",
+      demo: "https://azacdev.github.io/meme-generator/"
     },
     {
       id: 4,
       image: IMG4,
       title: "Tenzies Game",
-      github: "https://github.com/",
+      github: "https://github.com/azacdev/tenzies-game.git",
       demo: "https://dribble.com/"
     }
   ]
