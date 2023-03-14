@@ -8,7 +8,7 @@ const data = [
       id: 1,
       image: IMG1,
       title: "Movie Site Using React",
-      github: "https://github.com/",
+      github: "https://github.com/azacdev/revamped-movies.git",
       demo: "https://dribble.com/"
     },
     {
